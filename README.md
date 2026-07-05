@@ -1,4 +1,4 @@
-# Fullstack Developer
+# Junior Fullstack Developer
 
 Открыт для предложений по работе, единоразовых задач.
 
