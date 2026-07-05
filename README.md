@@ -33,5 +33,5 @@
 
 ### Контакты
 
-*   **Telegram:** [@morikmorskoi](https://t.me/morikmorskoi) — *самый быстрый способ связи*
+*   **Telegram:** [@morikmorskoi](https://t.me/morikmorskoi)
 *   **Instagram:** [@mopuk_](https://instagram.com/mopuk_)
