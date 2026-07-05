@@ -9,7 +9,7 @@
 | Направление | Технологии и инструменты |
 | :--- | :--- |
 | **Frontend** | Next.js, React, TypeScript, JavaScript (ES6+), Vite, HTML5 / CSS3 |
-| **Backend** | Python (Flask), REST API, Базы данных (PostgreSQL) |
+| **Backend** | Python (Flask), REST API, PostgreSQL |
 | **Инструменты & Деплой** | Git, GitHub, Figma, Vercel |
 
 ---
