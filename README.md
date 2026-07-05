@@ -1,16 +1,37 @@
-## Hi there 👋
+# Fullstack Developer
 
-<!--
-**mopuk/mopuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Открыт для предложений по работе, единоразовых задач.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Технологический стек
+
+| Направление | Технологии и инструменты |
+| :--- | :--- |
+| **Frontend** | Next.js, React, TypeScript, JavaScript (ES6+), Vite, HTML5 / CSS3 |
+| **Backend** | Python (Flask), REST API, Базы данных (PostgreSQL) |
+| **Инструменты & Деплой** | Git, GitHub, Figma, Vercel |
+
+---
+
+### Ключевые проекты в репозитории
+
+*   **E-Commerce MOXPOKE Shop (В разработке)** 
+    *   [shop-frontend](https://github.com/mopuk/shop-frontend) — Фронтенд-часть интернет-магазина на Next.js & TypeScript. 
+    *   [shop-backend](https://github.com/mopuk/shop-backend) — Бэкенд-часть на Flask (Python) с базой данных PostgreSQL для обработки товаров, заказов и API-запросов.
+*   **NFC Landing Page** — Адаптивная pixel-perfect верстка лендинга из Figma на чистом HTML/CSS.
+*   **Memory Game** — Интерактивное SPA-приложение на React + Vite с интеграцией Unsplash API.
+
+---
+
+### Сотрудничество
+
+*   **Формат работы:** Удаленно
+*   **Оплата:** Напрямую на карту РФ, оформленно ИП
+*   Готов к тестовому заданию
+---
+
+### Контакты
+
+*   **Telegram:** [@morikmorskoi](https://t.me/morikmorskoi) — *самый быстрый способ связи*
+*   **Instagram:** [@mopuk_](https://instagram.com/mopuk_)
